@@ -33,7 +33,7 @@ namespace WpfCustomControl
 
         private void StackPanel_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Bubbled to Stackpanel");
+            //MessageBox.Show("Bubbled to Stackpanel");
             MessageBox.Show("Bubbled to Stackpanel");
         }
     }
